@@ -1,0 +1,5 @@
+C:\Users\Mike\Desktop\ARMAExtCS-master\ARMAExtCS\bin\Debug\ARMAExtCS.dll
+C:\Users\Mike\Desktop\ARMAExtCS-master\ARMAExtCS\bin\Debug\ARMAExtCS.pdb
+C:\Users\Mike\Desktop\ARMAExtCS-master\ARMAExtCS\obj\Debug\ARMAExtCS.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\ARMAExtCS-master\ARMAExtCS\obj\Debug\ARMAExtCS.dll
+C:\Users\Mike\Desktop\ARMAExtCS-master\ARMAExtCS\obj\Debug\ARMAExtCS.pdb
